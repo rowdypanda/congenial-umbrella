@@ -1,0 +1,180 @@
+0000.000 (0) Opened log file at time: Thu, 19 Nov 2020 03:20:16 +0000 on https://www.pandakatlife.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.4.12 (apache2handler, Linux pandakatlife.com 4.15.0-122-generic #124-Ubuntu SMP Thu Oct 15 13:03:05 UTC 2020 x86_64) MySQL: 5.7.32-0ubuntu0.18.04.1 WPLANG: en_US Server: Apache/2.4.29 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4M | 4M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.014 (0) Free space on disk containing Updraft's temporary directory: 42613.5 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.020 (0) Semaphore (fd, wp_options) being initialised
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.025 (0) Set semaphore last lock (fd) time to 2020-11-19 03:20:16
+0000.026 (0) Semaphore lock (fd) complete
+0000.030 (0) Backup run: resumption=0, nonce=64384e7c3da2, file_nonce=64384e7c3da2 begun at=1605756016 (0s ago), job type=backup
+0000.032 (0) Scheduling a resumption (1) after 300 seconds (1605756316) in case this run gets aborted
+0000.057 (0) Checking if we have a zip executable available
+0000.060 (0) Creation of backups of directories: beginning
+0000.062 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.143 (0) Total entities for the zip file: 371 directories, 2435 files (0 skipped as non-modified), 38.4 MB
+0000.156 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.160 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.164 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.169 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.173 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.175 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.7 MB, 2435 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.601 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 600 files added (on-disk size: 1703.5 KB)
+0000.610 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 700 files added (on-disk size: 1703.5 KB)
+0000.620 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 800 files added (on-disk size: 1703.5 KB)
+0000.629 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 900 files added (on-disk size: 1703.5 KB)
+0000.635 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1000 files added (on-disk size: 1703.5 KB)
+0000.637 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 2435 files batched, 501 (1002) added so far); re-opening (prior size: 1703.5 KB)
+0000.875 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1100 files added (on-disk size: 2387.9 KB)
+0000.880 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1200 files added (on-disk size: 2387.9 KB)
+0000.885 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1300 files added (on-disk size: 2387.9 KB)
+0000.889 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1400 files added (on-disk size: 2387.9 KB)
+0000.893 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1500 files added (on-disk size: 2387.9 KB)
+0000.894 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (21.7 MB, 2435 files batched, 501 (1503) added so far); re-opening (prior size: 2387.9 KB)
+0002.766 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1600 files added (on-disk size: 8195.8 KB)
+0002.773 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1700 files added (on-disk size: 8195.8 KB)
+0002.781 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1800 files added (on-disk size: 8195.8 KB)
+0002.788 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 1900 files added (on-disk size: 8195.8 KB)
+0002.795 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 2000 files added (on-disk size: 8195.8 KB)
+0002.796 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.7 MB, 2435 files batched, 501 (2004) added so far); re-opening (prior size: 8195.8 KB)
+0003.447 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 2100 files added (on-disk size: 10071.4 KB)
+0003.452 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 2200 files added (on-disk size: 10071.4 KB)
+0003.457 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 2300 files added (on-disk size: 10071.4 KB)
+0003.462 (0) Zip: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip.tmp: 2400 files added (on-disk size: 10071.4 KB)
+0003.885 (0) Created plugins zip (0) - 11367.3 KB in 3.8 s (2974.5 KB/s) (sha1: cc58d9263c1beb2f5c128b6838930d95503bc0ea, sha256: 759529a69cf79e76752e4315be06c253efe75b53efae9910cb62bfd61e855a2c)
+0003.887 (0) Beginning creation of dump of themes (split every: 400 MB)
+0003.894 (0) Total entities for the zip file: 12 directories, 63 files (0 skipped as non-modified), 1.7 MB
+0004.017 (0) Created themes zip (0) - 871.8 KB in 0.1 s (6884.2 KB/s) (sha1: 41e2190da93f76bd786e8f36fea23c90de007e40, sha256: 191bcdbb6238f8bd3611768b16fde930afe987c3efe499e7b8da942d20fbd429)
+0004.019 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0004.021 (0) Looking for candidates to backup in: /var/www/pandakatlife.com/public_html/wp-content/uploads
+0004.022 (0) finding files: 2020: adding to list (1)
+0004.022 (0) finding files: 2019: adding to list (2)
+0004.023 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0004.036 (0) Total entities for the zip file: 17 directories, 0 files (0 skipped as non-modified), 0 MB
+0004.043 (0) Created uploads zip (0) - 1.8 KB in 0 s (93.3 KB/s) (sha1: bf22f7419973fc889be25ba5719b6e5d16aeae1a, sha256: 0abb1cd7f33614625e2742c866b7a97d824bd1ad9dac478c6aaa93d701a27aff)
+0004.046 (0) Beginning backup of other directories found in the content directory (index: 0)
+0004.047 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0004.048 (0) Looking for candidates to backup in: /var/www/pandakatlife.com/public_html/wp-content
+0004.049 (0) finding files: index.php: adding to list (1)
+0004.050 (0) finding files: plugins: skipping: this is the plugins directory
+0004.050 (0) finding files: upgrade: skipping: excluded by options
+0004.051 (0) finding files: themes: skipping: this is the themes directory
+0004.053 (0) finding files: updraft: skipping: this is the updraft directory
+0004.053 (0) finding files: uploads: skipping: this is the uploads directory
+0004.056 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0004.062 (0) Created others zip (0) - 0.1 KB in 0 s (17.3 KB/s) (sha1: c889b69b193ef38b16ef93f7c94c14b86e3ea513, sha256: 828c7d70ffd6d4104fa21d5721ad5c899da302225b3d5a5c36fbfb2c44b9b865)
+0004.069 (0) Saving backup status to database (elements: 8)
+0004.070 (0) Beginning creation of database dump (WordPress DB)
+0004.071 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0004.073 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0004.097 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1245 bytes total)
+0004.100 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0004.106 (0) Table wp_options: Total expected rows (approximate): 189
+0004.110 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 185 in 0.00 seconds
+0004.112 (0) Table wp_options: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_options.table.gz - 8.8 KB)
+0004.116 (0) Table wp_users: Total expected rows (approximate): 2
+0004.118 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0004.119 (0) Table wp_users: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_users.table.gz - 0.7 KB)
+0004.124 (0) Table wp_usermeta: Total expected rows (approximate): 39
+0004.126 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 40 in 0.00 seconds
+0004.127 (0) Table wp_usermeta: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_usermeta.table.gz - 1.4 KB)
+0004.131 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 1
+0004.133 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0004.134 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_actions.table.gz - 0.6 KB)
+0004.137 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0004.139 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0004.140 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_claims.table.gz - 0.4 KB)
+0004.143 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0004.145 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0004.146 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0004.149 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 3
+0004.150 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0004.151 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_logs.table.gz - 0.5 KB)
+0004.154 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0004.155 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0004.157 (0) Table wp_commentmeta: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0004.159 (0) Table wp_comments: Total expected rows (approximate): 0
+0004.161 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0004.162 (0) Table wp_comments: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_comments.table.gz - 0.5 KB)
+0004.167 (0) Table wp_links: Total expected rows (approximate): 0
+0004.168 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0004.170 (0) Table wp_links: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_links.table.gz - 0.4 KB)
+0004.173 (0) Table wp_postmeta: Total expected rows (approximate): 28
+0004.175 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 28 in 0.00 seconds
+0004.176 (0) Table wp_postmeta: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_postmeta.table.gz - 1.3 KB)
+0004.180 (0) Table wp_posts: Total expected rows (approximate): 17
+0004.183 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 17 in 0.00 seconds
+0004.184 (0) Table wp_posts: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_posts.table.gz - 7.1 KB)
+0004.187 (0) Table wp_term_relationships: Total expected rows (approximate): 4
+0004.189 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0004.189 (0) Table wp_term_relationships: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0004.192 (0) Table wp_term_taxonomy: Total expected rows (approximate): 3
+0004.194 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0004.195 (0) Table wp_term_taxonomy: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0004.198 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0004.199 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0004.201 (0) Table wp_termmeta: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_termmeta.table.gz - 0.4 KB)
+0004.204 (0) Table wp_terms: Total expected rows (approximate): 3
+0004.206 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0004.207 (0) Table wp_terms: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_terms.table.gz - 0.5 KB)
+0004.210 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (approximate): 1
+0004.212 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0004.213 (0) Table wp_wpmailsmtp_tasks_meta: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_wpmailsmtp_tasks_meta.table.gz - 0.4 KB)
+0004.217 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0004.219 (0) Table wp_yoast_seo_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0004.221 (0) Table wp_yoast_seo_links: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0004.224 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 2
+0004.226 (0) Table wp_yoast_seo_meta: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0004.227 (0) Table wp_yoast_seo_meta: finishing file (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_yoast_seo_meta.table.gz - 0.3 KB)
+0004.229 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_options.table.gz (1/19): adding to final database dump
+0004.231 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_users.table.gz (2/19): adding to final database dump
+0004.233 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_usermeta.table.gz (3/19): adding to final database dump
+0004.233 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_actions.table.gz (4/19): adding to final database dump
+0004.234 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_claims.table.gz (5/19): adding to final database dump
+0004.235 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_groups.table.gz (6/19): adding to final database dump
+0004.236 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_actionscheduler_logs.table.gz (7/19): adding to final database dump
+0004.236 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_commentmeta.table.gz (8/19): adding to final database dump
+0004.237 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_comments.table.gz (9/19): adding to final database dump
+0004.237 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_links.table.gz (10/19): adding to final database dump
+0004.238 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_postmeta.table.gz (11/19): adding to final database dump
+0004.239 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_posts.table.gz (12/19): adding to final database dump
+0004.241 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_term_relationships.table.gz (13/19): adding to final database dump
+0004.242 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_term_taxonomy.table.gz (14/19): adding to final database dump
+0004.243 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_termmeta.table.gz (15/19): adding to final database dump
+0004.244 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_terms.table.gz (16/19): adding to final database dump
+0004.244 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_wpmailsmtp_tasks_meta.table.gz (17/19): adding to final database dump
+0004.245 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_yoast_seo_links.table.gz (18/19): adding to final database dump
+0004.245 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db-table-wp_yoast_seo_meta.table.gz (19/19): adding to final database dump
+0004.252 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db.gz: finished writing out complete database file (0 KB)
+0004.258 (0) Total database tables backed up: 19 (backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db.gz, size: 20664, sha1: ddc6d17027cf9d45c990483b1634797abc79205e, sha256: 7b94cf8a5959c7f4f300d3414ab9693bef59918888ce376840d18c7c4e4d2b0a)
+0004.262 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0004.262 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0004.263 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0004.264 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-others.zip: others: This file has not yet been successfully uploaded: will queue
+0004.264 (0) backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0004.265 (0) Saving backup history. Total backup size: 12 MB
+0004.266 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0004.270 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0004.270 (0) No remote despatch: user chose no remote backup service
+0004.271 (0) Recording as successfully uploaded: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-plugins.zip
+0004.273 (0) Recording as successfully uploaded: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-themes.zip
+0004.274 (0) Recording as successfully uploaded: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-uploads.zip
+0004.276 (0) Recording as successfully uploaded: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-others.zip
+0004.278 (0) Recording as successfully uploaded: backup_2020-11-18-2320_PandaKatLife_64384e7c3da2-db.gz
+0004.282 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0004.282 (0) Number of backup sets in history: 1; groups (db): 1
+0004.283 (0) Examining (for databases) backup set with group_id=0, nonce=64384e7c3da2, datestamp=1605756016 (Nov 19 2020 03:20:16)
+0004.284 (0) This backup set is the backup set just made, so will not be deleted.
+0004.284 (0) Number of backup sets in history: 1; groups (files): 1
+0004.285 (0) Examining (for files) backup set with nonce=64384e7c3da2, datestamp=1605756016 (Nov 19 2020 03:20:16)
+0004.285 (0) This backup set is the backup set just made, so will not be deleted.
+0004.287 (0) This backup set is the backup set just made, so will not be deleted.
+0004.287 (0) This backup set is the backup set just made, so will not be deleted.
+0004.287 (0) This backup set is the backup set just made, so will not be deleted.
+0004.287 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0004.295 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0004.299 (0) Resume backup (64384e7c3da2, 0): finish run
+0004.302 (0) Decremented the semaphore (fd) by 1
+0004.303 (0) Semaphore (fd) unlocked
+0004.304 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0004.315 (0) No email will/can be sent - the user has not configured an email address.
+0004.317 (0) The backup apparently succeeded and is now complete
